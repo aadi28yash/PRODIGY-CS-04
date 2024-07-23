@@ -25,7 +25,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/Riyaaaaaaaaaaaaa/PRODIGY_CS_02
+git clone https://github.com/aadi28yash/PRODIGY-CS-04.git
 
 How It Works
 
